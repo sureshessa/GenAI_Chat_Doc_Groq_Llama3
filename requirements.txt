@@ -1,0 +1,8 @@
+langchain
+langchain_community
+accelerate
+tiktoken
+pypdf
+python-dotenv
+chromadb
+faiss-cpu
